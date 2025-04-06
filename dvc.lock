@@ -38,7 +38,7 @@ stages:
       size: 4523484
     - path: transformer.joblib
       hash: md5
-      md5: 6e8e22b87a3001089dde09715d2d1751
+      md5: 42d391ec598bac060eca4ca1444ba3cb
       size: 193055
   interaction_data:
     cmd: python collaborative_filtering.py

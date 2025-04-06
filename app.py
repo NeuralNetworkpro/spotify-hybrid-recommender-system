@@ -56,7 +56,7 @@ if ((filtered_data["name"] == song_name) & (filtered_data["artist"] == artist_na
     # diversity slider
     diversity = st.slider(label="Diversity in Recommendations",
                         min_value=1,
-                        max_value=9,
+                        max_value=10,
                         value=5,
                         step=1)
 

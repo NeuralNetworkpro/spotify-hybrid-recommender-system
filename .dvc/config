@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /Users/jyoti/Downloads/mlops
+    url = s3://spotify-hybrid-recomm-sys
